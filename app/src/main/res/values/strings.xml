@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SKJ</string>
+    <string name="etID_hint">Please enter your id number </string>
+    <string name="btnClickMe">Click me</string>
+</resources>
