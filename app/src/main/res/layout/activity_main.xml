@@ -24,12 +24,13 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:background="@color/colorPrimaryDark"
+        android:onClick="btnSubmit_OnClick"
         android:text="@string/btnClickMe" />
 
     <TextView
         android:id="@+id/tv"
         android:layout_width="match_parent"
-        android:layout_height="38dp"
-        android:layout_marginTop="50dp"
+        android:layout_height="155dp"
+        android:layout_marginTop="10dp"
         android:gravity="center_vertical|center_horizontal" />
 </LinearLayout>
